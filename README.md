@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 > Write the code, Change the world.
 
-🇨🇳 China Xi'an ・ 🕹Java developer
+🇨🇳  ・ 🕹bigdata developer
 
 https://github.com/YongqiChen0807
 
