@@ -1,7 +1,7 @@
 ### 你好，世界 👋
 
 <!--
-**ameizi/ameizi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**陈惜时/陈惜时** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -32,4 +32,4 @@ https://github.com/ameizi
 </picture>
 
 ### Visitors
-![Visitor Count](https://github.com/YongqiChen0807)
+![Visitor Count](https://profile-counter.glitch.me/YongqiChen/count.svg)
