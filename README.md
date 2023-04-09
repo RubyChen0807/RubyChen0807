@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 > Write the code, Change the world.
 
-<h3 style="font-family: '黑体', sans-serif; color: #000000;" align="center">
+<h5 style="font-family: '黑体', sans-serif; color: #000000;" align="center">
 	<a href="https://github.com/YongqiChen0807">
 		<img src="https://readme-typing-svg.herokuapp.com/?lines=SysSysSystem.out.println(%22Hello%2C%20World!%22);小陈同学祝您今天天开心!&center=true&size=27">
 	</a>
-</h3>
+</h5>
 
 
  ・ 🕹 A bigdata developer
